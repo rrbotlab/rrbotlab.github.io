@@ -1,0 +1,17 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document url-prefix("http://www.dekra.com.br/lincesvpposto/laudo/pda/") {
+
+*{font-size: 1.2em;
+  text-align: center;}  
+
+TABLE.A{
+  width: 100%;
+}
+
+TABLE.B{
+  width: 100%;
+}
+
+  
+}
