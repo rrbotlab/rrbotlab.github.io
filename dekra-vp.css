@@ -2,9 +2,23 @@
 
 @-moz-document url-prefix("http://www.dekra.com.br/lincesvpposto/laudo/pda/") {
 
-*{font-size: 1.2em;
+*{font-size: 20px;
   text-align: center;}  
-
+  
+  a,input {
+    font-size: 20px;
+  }
+  
+  input{
+    min-height: 80px;
+    min-width: 150px;
+    text-align: center;
+  }
+  
+  table{
+    width: 100%;
+  }
+  
 TABLE.A{
   width: 100%;
 }
@@ -13,5 +27,8 @@ TABLE.B{
   width: 100%;
 }
 
+  TD.D{
+    font-size: 20px;
+  }
   
 }
